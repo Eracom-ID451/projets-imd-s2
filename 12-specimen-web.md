@@ -25,15 +25,14 @@ Indiquer le nom [dans ce fichier Excel](https://eduvaud.sharepoint.com/:x:/r/sit
 7. Ajouter vos fichiers image (.webp ou .svg)
 
 8. Editer votre fichier `index.html`.  
-
-- Remplacer tous les **EXEMPLE** par le nom de votre typo.
-- Remplacer l'image `exemple.webp` par votre image ou vos images.
-- Vérifier l'ordre des typos sur [https://specimens.eracom.ch/s4/](https://specimens.eracom.ch/s4/)
-- Remplacer les liens `/fonte-precedente/` et `fonte-suivante/` avec les liens corrects.
+    - Remplacer tous les **EXEMPLE** par le nom de votre typo.
+    - Remplacer l'image `exemple.webp` par votre image ou vos images.
+    - Vérifier l'ordre des typos sur [https://specimens.eracom.ch/s4/](https://specimens.eracom.ch/s4/)
+    - Remplacer les liens `/fonte-precedente/` et `fonte-suivante/` avec les liens corrects.
 
 9. Publier vos changements avec Github Desktop. 
-- Commit
-- Push
+    - Commit
+    - Push
 
 FÉLICITATIONS, vous avez publié votre spécimen sur le web!
 
