@@ -6,7 +6,7 @@ Cours Projets IMD du semestre 2, classe ID451
 
 - [A : Logitech digital art gallery](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/A-Logitech?csf=1&web=1&e=iORDKZ) (lien Sharepoint)
 - [B : Specimens Typo](https://dreyer-eracom.notion.site/Projet-1-Sp-cimens-Typo-2ef91f403a6c8010a24fdb9b30001c98?pvs=74) (lien Notion)
-- [C : Escape Game](https://dreyer-eracom.notion.site/Projet-C-Escape-Game-30491f403a6c8076a24eda11e0f40964)
+- [C : Escape Game](https://dreyer-eracom.notion.site/Projet-C-Escape-Game-30491f403a6c8076a24eda11e0f40964) (lien Notion)
 - D : Iconathon 🏠🚀📹🏀
 - E : ... 🌳🌱☘️🌿
 
