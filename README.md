@@ -9,7 +9,7 @@ Cours Projets IMD du semestre 2, classe ID451
 - [C : Escape Game](https://dreyer-eracom.notion.site/Projet-C-Escape-Game-30491f403a6c8076a24eda11e0f40964) (lien Notion)
 - [D : Iconathon](https://eduvaud.sharepoint.com/:b:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/D-Iconathon/Iconathon_brief.pdf?csf=1&web=1&e=1HmS8u) (lien Sharepoint)
 - [E : Index Picto](https://disorder-presskit.notion.site/Projet-E-Index-Picto-32691f403a6c804c9fa5e45faab5b4a3) (lien Notion)
-- F : ... 🌳🌱☘️🌿
+- [G : Tree Selectif](https://eduvaud.sharepoint.com/:b:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/G-Tree-Selectif/Projet-Tree-Selectif.pdf?csf=1&web=1&e=cQEO0k) (lien Sharepoint)
 
 ## Liens utiles
 
