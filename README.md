@@ -27,3 +27,5 @@ Liens Notion - [cours Projet IMD de Mylène Dreyer](https://dreyer-eracom.notion
 * [Fontes Variables](https://cours-web.ch/typographie/fontes-variables.html) - M. Schmalstieg – cours du 30.01.26
 * [Les fontes interdites](https://eduvaud.sharepoint.com/:p:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/supports_cours_mschmalstieg/Crimes%20Typographiques%202026.pptx?d=wf6f30ad627084e7791843d6a12a3d130&csf=1&web=1&e=xuH24g) - M. Schmalstieg – cours du 06.02.26
 * [Intro à Git](https://eduvaud.sharepoint.com/:b:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/supports_cours_mschmalstieg/GitHub-2025-Short.pdf?csf=1&web=1&e=uHuJ0d) - M. Schmalstieg – cours du 13.02.26
+* [Astuces Readymag](https://www.figma.com/slides/2YjydDuvM4qfuN2X1shE0O) ([présentation](https://www.figma.com/deck/2YjydDuvM4qfuN2X1shE0O))
+* [Les QR-Codes](https://www.figma.com/slides/KKI3Jk1X8TxzLGB3Yy9Xda) ([présentation](https://www.figma.com/deck/KKI3Jk1X8TxzLGB3Yy9Xda))
