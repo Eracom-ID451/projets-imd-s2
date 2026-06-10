@@ -18,9 +18,13 @@ Chêne rouge d’Amérique : [page web](https://parc.eracom.ch/cra/) / [prototyp
 
 Hêtre : [page web](https://parc.eracom.ch/dojuvrasmrsh/) / [prototype](https://www.figma.com/proto/M59dLZwk0bwTOYNPw6V533/Tufa_Vesa_Tree-Selectif?node-id=25-2&t=hs0ykEvCXiDTUGgg-1)
 
+Mûrier Blanc: [page web](https://parc.eracom.ch/murier-blanc/) / [prototype](https://www.figma.com/proto/u4wwk7SAZkMtZ2yiUCW5tt/WinterbergerJulien?node-id=339-335&t=kjSpmzCOKIL3evsy-1)
+
 ### Picto Index
 
-[Site des pictos](https://eracom-id441.github.io/index-picto/)
+- [Maquette Mobile](https://www.figma.com/proto/ItXrclHyUvfFyjssW5Nn09/vesa-index-picto?node-id=16-30&t=InIIvUejyGrVsM0e-1) (Vesa)
+- [Maquette Desktop](https://www.figma.com/proto/ItXrclHyUvfFyjssW5Nn09/vesa-index-picto?node-id=16-31&t=InIIvUejyGrVsM0e-1)
+- [Site des pictos](https://eracom-id441.github.io/index-picto/)
 
 ### Escape Game
 
