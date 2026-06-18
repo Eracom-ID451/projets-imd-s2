@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: Bienvenue
 permalink: index.html
 ---
 
